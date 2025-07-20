@@ -102,6 +102,3 @@ All contributors sign the CLA.
 
 MIT © 2025 FUZE Foundation
 
-```
-::contentReference[oaicite:0]{index=0}
-```
