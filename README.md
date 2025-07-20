@@ -1,4 +1,4 @@
-# fuze-governance-dao-lite
+# Governance DAO Lite
 
 > **Snapshot strategies + SafeSnap module + off‑the‑shelf proposal templates**  
 > Gives the FUZE community a gas‑free voting flow that can **execute on‑chain** via Safe multisig.
